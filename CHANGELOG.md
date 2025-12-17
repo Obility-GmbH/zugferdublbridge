@@ -1,3 +1,13 @@
+## v1.0.16
+
+``Previous version v1.0.15``
+
+| Type | Hash    | Date    | Author  | Subject  | Issue(s)
+| :--- | :------ | :------ | :------ | :------- | :-----------: 
+| :new:  | [db1ba7f](https://github.com/horstoeko/zugferdublbridge/commit/db1ba7f) | 2025-12-17 16:18:02 CET | HorstOeko | [ENH] Added new supported profile "urn:cen.eu:en16931:2017#compliant#urn:fdc:peppol.eu:2017:poacc:billing:3.0" | 
+
+:exclamation: _There are 6 internal commit(s)_
+
 ## v1.0.15
 
 ``Previous version v1.0.13``
